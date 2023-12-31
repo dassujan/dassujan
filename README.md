@@ -8,9 +8,9 @@
 ![](https://komarev.com/ghpvc/?username=dassujan&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
 
 - 🌱 I am currently learning more about backend development & machine learing.
-- 🌱 Working on research papers in electronics projects.
-- ⚽ 2024 Goals: Contribute to Open Source projects, Learn and Explore.
-- 🤝 I’m looking to collaborate on Web Development and, Software Development Engineer roles.
+- 📝 Working on research papers related to electronics projects.
+- 🥅 2024 Goals: Contribute to Open Source projects, Learn and Explore.
+- 🤝 I’m looking to collaborate on Software Development Engineer.
 - ⚡ Fun fact: I love drawing and wondering at different places.
 
 ### Connect with me
@@ -20,12 +20,16 @@
 <a href="https://linkedin.com/in/dassujan005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dassujan005" height="30" width="40" /></a>
 <a href="https://fb.com/dassujan005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dassujan005" height="30" width="40" /></a>
 <a href="https://instagram.com/s.u.j.a.n.d.a.s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="s.u.j.a.n.d.a.s" height="30" width="40" /></a>
-<a href="https://hashnode.com/dassujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dassujan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/thrillerquests" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thrillerquests" height="30" width="40" /></a>
+<a href="https://hashnode.com/@dassujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="dassujan" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@ThrillerQuests" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thrillerquests" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/dassujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dassujan" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sujandas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sujandas" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/dassujan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="dassujan" height="30" width="40" /></a>
 </p>
+
+---
+[![@dassujan's Holopin board](https://holopin.me/dassujan)](https://holopin.io/@dassujan)
+---
 
 ### Languages and Tools
 

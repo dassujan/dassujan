@@ -2,10 +2,10 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-### Aspiring Programmer - Content Writer - MERN, Full Stack Developer - ML Enthusiast
+### Aspiring Programmer - Content Writer - MERN, Full Stack Developer - ML Enthusiast - ME-EIE'25 @ UIT, BU
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassujan005/)
-![](https://komarev.com/ghpvc/?username=dassujan&label=PROFILE+VIEWS&style=flat-square&color=brightgreen)
+![](https://komarev.com/ghpvc/?username=dassujan&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
 
 - 🌱 I am currently learning more about backend development & machine learing.
 - 📝 Working on research papers related to electronics projects.

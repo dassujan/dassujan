@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://octodex.github.com/images/daftpunktocat-guy.gif" />
 
-### Aspiring Programmer - Content Writer - MERN, Full Stack Developer - ML Enthusiast - ME-EIE'25 @ UIT, BU
+### Aspiring Programmer - Content Writer - MERN, Full Stack Developer - ML Enthusiast
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dassujan005/)
 ![](https://komarev.com/ghpvc/?username=dassujan&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen)
